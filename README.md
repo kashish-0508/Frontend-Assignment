@@ -3,6 +3,11 @@
 This project implements two reusable React components using React + TypeScript + TailwindCSS (v3) + Storybook.
 It goes beyond the basic requirements by also implementing optional features like clearable inputs and password visibility toggles.
 
+⚠️ Note:
+`node_modules/` and `build/` folders are not included in this zip to keep the file size <50MB.
+Please run `npm install` after extracting the project to restore dependencies.
+
+
 # 🎯 Components
 1. InputField
 
