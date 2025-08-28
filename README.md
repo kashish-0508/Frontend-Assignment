@@ -138,9 +138,10 @@ Clean, responsive styling with hover + zebra rows
 
 Storybook can be deployed using Chromatic
  or Vercel
-.
 
-CRA app can be deployed to Vercel or Netlify easily.
+# Live Storybook Link
+
+https://68b03c7365115f6a0b901202-urtdynwqek.chromatic.com/
 
 # 📄 License
 
